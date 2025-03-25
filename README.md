@@ -100,7 +100,6 @@
  <div class="resume">
            <a href="Aadhitya.E.pdf" download>Download CV</a>
         </div>
-    </div>
-
+  </div>
 </body>
 </html>
