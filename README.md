@@ -84,7 +84,7 @@
         </ul>
 
 <div class="resume">
-            <a href="Aadhitya.pdf" target="_blank">Download CV</a>
+            <a href="Screenshot_20250325-122329-2.png " target="_blank">Download CV</a>
         </div>
     </div>
 
