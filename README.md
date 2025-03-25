@@ -98,7 +98,7 @@
         </div>
 
  <div class="resume">
-           <a href="Aadhitya.E_20250304_220356_0000.pdf" download>Download CV</a>
+           <a href="Screenshot_20250325-122329-2.png" download>Download CV</a>
         </div>
     </div>
 
