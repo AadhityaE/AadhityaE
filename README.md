@@ -1,4 +1,4 @@
-<html>
+<html 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -87,7 +87,7 @@
             <h2>Education</h2>
             <p><strong>Currently Pursuing:</strong> BCA at PRINCE SHRI VENKATESWARA ARTS AND SCIENCE COLLEGE</p>
             <p><strong>Completed:</strong> 12th at ZION MATRICULATION HIGHER SECONDARY SCHOOL</p>
-        </div>
+  </div>
 
  <div class="box" id="skills">
             <h2>Skills</h2>
@@ -101,7 +101,7 @@
                 <li>JavaScript</li>
                 <li>MySQL</li>
             </ul>
-        </div>
+  </div>
 
   <div class="box" id="projects">
             <h2>Projects</h2>
@@ -109,7 +109,7 @@
                 <li>Digital Portfolio</li>
                 <li>Website Creation</li>
             </ul>
-        </div>
+ </div>
 
 <div class="box resume-btn" id="resume">
             <h2>Resume</h2>
