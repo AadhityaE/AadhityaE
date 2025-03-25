@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E. Aadhitya - Portfolio</title>
+    <title>Aadhitya.E - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,27 +12,33 @@
             padding: 0;
         }
         .header {
-            background-color: #4a4b1e;
+            background-color: #a4db1e;
             text-align: center;
             padding: 20px;
             font-size: 24px;
             font-weight: bold;
-            color: white;
         }
         .container {
             width: 80%;
-            margin: 20px auto;
+            margin: auto;
+            overflow: hidden;
+        }
+        .section {
             background: white;
             padding: 20px;
+            margin-top: 10px;
             border-radius: 5px;
-            box-shadow: 0px 0px 10px #aaa;
+            box-shadow: 0px 0px 10px 0px #aaa;
         }
         h2 {
-            color: #4d42cc;
+            color: #d42c2c;
         }
         ul {
             list-style-type: none;
             padding: 0;
+        }
+        ul li {
+            padding: 5px 0;
         }
         .resume {
             text-align: center;
@@ -53,38 +59,46 @@
 </head>
 <body>
 
-<div class="header">
-        E. Aadhitya <br>
-        BCA Graduate
+  <div class="header">
+        E.Aadhitya<br>
+        <small>BCA Graduate</small>
     </div>
 
 <div class="container">
-        <h2>About Me</h2>
-        <p>Motivated BCA graduate with strong programming and problem-solving skills, seeking an entry-level role to apply my knowledge in software development and IT solutions.</p>
+        <div class="section">
+            <h2>About Me</h2>
+            <p>Motivated BCA graduate with strong programming and problem-solving skills, seeking an entry-level role to apply my knowledge in software development and IT solutions.</p>
+        </div>
 
-<h2>Education</h2>
-<p>Prince Shri Venkateswara Arts and Science College</p>
+<div class="section">
+            <h2>Education</h2>
+            <p>Prince Shri Venkateswara Arts and Science College</p>
+        </div>
 
-  <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Java</li>
-            <li>C++</li>
-            <li>Data Structures</li>
-            <li>CSS</li>
-            <li>HTML</li>
-            <li>JavaScript</li>
-        </ul>
+  <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>C++</li>
+                <li>Data Structures</li>
+                <li>CSS</li>
+                <li>HTML</li>
+            </ul>
+        </div>
 
-<h2>Projects</h2>
-        <ul>
-            <li>Digital Portfolio</li>
-            <li>Pattern</li>
-            <li>Calculator with AWT</li>
-        </ul>
+   <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li>Guess a Number</li>
+                <li>Digital Portfolio</li>
+                <li>Pattern</li>
+                <li>Calculator with AWT</li>
+            </ul>
+        </div>
 
-<div class="resume">
-            <a href="Screenshot_20250325-122329-2.png " target="_blank">Download CV</a>
+ <div class="resume">
+           <a href="Aadhitya.E_20250304_220356_0000.pdf" download>Download CV</a>
         </div>
     </div>
 
