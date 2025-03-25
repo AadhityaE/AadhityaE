@@ -98,7 +98,7 @@
         </div>
 
  <div class="resume">
-            <a href=Aadhitya.TNSDC.pdf" download>Download CV</a>
+            <a href="Aadhitya.TNSDC.pdf" download>Download CV</a>
         </div>
     </div>
 
