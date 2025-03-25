@@ -77,19 +77,19 @@
         <a href="#resume">Resume</a>
     </div>
 
-    <div class="container">
+ <div class="container">
         <div class="box" id="about">
             <h2>About Me</h2>
             <p>I am an active listener with more knowledge about technology.</p>
         </div>
 
-        <div class="box" id="education">
+ <div class="box" id="education">
             <h2>Education</h2>
             <p><strong>Currently Pursuing:</strong> BCA at PRINCE SHRI VENKATESWARA ARTS AND SCIENCE COLLEGE</p>
             <p><strong>Completed:</strong> 12th at ZION MATRICULATION HIGHER SECONDARY SCHOOL</p>
         </div>
 
-        <div class="box" id="skills">
+ <div class="box" id="skills">
             <h2>Skills</h2>
             <ul>
                 <li>Python</li>
@@ -103,7 +103,7 @@
             </ul>
         </div>
 
-        <div class="box" id="projects">
+  <div class="box" id="projects">
             <h2>Projects</h2>
             <ul>
                 <li>Digital Portfolio</li>
@@ -111,13 +111,13 @@
             </ul>
         </div>
 
-        <div class="box resume-btn" id="resume">
+<div class="box resume-btn" id="resume">
             <h2>Resume</h2>
             <a href="#">Download CV</a>
         </div>
     </div>
 
-    <div class="footer">
+<div class="footer">
         <p>© 2024 Aadhitya E</p>
     </div>
 
