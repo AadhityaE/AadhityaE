@@ -3,120 +3,103 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aadhitya E - Portfolio</title>
+    <title>S. Afrose Banu - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
+            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
         }
         .header {
-            background-color: #c3e100;
+            background-color: #a4db1e;
             text-align: center;
             padding: 20px;
-        }
-        .header h1 {
-            margin: 0;
-            color: #fff;
-        }
-        .menu {
-            display: flex;
-            justify-content: center;
-            background-color: #d00032;
-            padding: 10px;
-        }
-        .menu a {
-            color: white;
-            text-decoration: none;
-            margin: 0 15px;
+            font-size: 24px;
             font-weight: bold;
         }
         .container {
             width: 80%;
-            margin: 20px auto;
+            margin: auto;
+            overflow: hidden;
         }
-        .box {
-            background-color: white;
-            padding: 15px;
-            border-radius: 10px;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 20px;
+        .section {
+            background: white;
+            padding: 20px;
+            margin-top: 10px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px 0px #aaa;
         }
-        .resume-btn {
+        h2 {
+            color: #d42c2c;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 5px 0;
+        }
+        .resume {
             text-align: center;
             margin-top: 20px;
         }
-        .resume-btn a {
+        .resume a {
+            display: inline-block;
             padding: 10px 20px;
-            background-color: black;
+            background: #444;
             color: white;
             text-decoration: none;
             border-radius: 5px;
         }
-        .footer {
-            text-align: center;
-            background-color: black;
-            color: white;
-            padding: 10px;
+        .resume a:hover {
+            background: #222;
         }
     </style>
 </head>
 <body>
- <div class="header">
-        <h1>Aadhitya E</h1>
-        <p>Technology Enthusiast</p>
- </div>
-<div class="menu">
-        <a href="#about">About</a>
-        <a href="#education">Education</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#resume">Resume</a>
- </div>
 
- <div class="container">
-        <div class="box" id="about">
+<div class="header">
+        E.Aadhitya <br>
+        <small>BCA Graduate</small>
+    </div>
+
+  <div class="container">
+        <div class="section">
             <h2>About Me</h2>
-            <p>I am an active listener with more knowledge about technology.</p>
+            <p>Motivated BCA graduate with strong programming and problem-solving skills, seeking an entry-level role to apply my knowledge in software development and IT solutions.</p>
         </div>
 
- <div class="box" id="education">
+ <div class="section">
             <h2>Education</h2>
-            <p><strong>Currently Pursuing:</strong> BCA at PRINCE SHRI VENKATESWARA ARTS AND SCIENCE COLLEGE</p>
-            <p><strong>Completed:</strong> 12th at ZION MATRICULATION HIGHER SECONDARY SCHOOL</p>
-  </div>
+            <p>Prince Shri Venkateswara Arts and Science College</p>
+        </div>
 
- <div class="box" id="skills">
+  <div class="section">
             <h2>Skills</h2>
             <ul>
                 <li>Python</li>
-                <li>C++</li>
-                <li>C</li>
                 <li>Java</li>
-                <li>HTML</li>
+                <li>C++</li>
+                <li>Data Structures</li>
                 <li>CSS</li>
-                <li>JavaScript</li>
-                <li>MySQL</li>
+                <li>HTML</li>
+                <li>Javascript</li>
             </ul>
-  </div>
+        </div>
 
-  <div class="box" id="projects">
+  <div class="section">
             <h2>Projects</h2>
             <ul>
                 <li>Digital Portfolio</li>
-                <li>Website Creation</li>
+                <li>Pattern</li>
+                <li>Calculator with AWT</li>
             </ul>
- </div>
-
-<div class="box resume-btn" id="resume">
-            <h2>Resume</h2>
-            <a href="#Aadhitya.E TNSDC .pdf">Download CV</a>
         </div>
-    </div>
 
-<div class="footer">
-        <p>© 2024 Aadhitya E</p>
+ <div class="resume">
+            <a href=Aadhitya.TNSDC.pdf" download>Download CV</a>
+        </div>
     </div>
 
 </body>
