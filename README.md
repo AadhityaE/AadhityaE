@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,19 +63,17 @@
     </style>
 </head>
 <body>
-
-   <div class="header">
+ <div class="header">
         <h1>Aadhitya E</h1>
         <p>Technology Enthusiast</p>
-    </div>
-
-  <div class="menu">
+ </div>
+<div class="menu">
         <a href="#about">About</a>
         <a href="#education">Education</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
         <a href="#resume">Resume</a>
-    </div>
+ </div>
 
  <div class="container">
         <div class="box" id="about">
@@ -113,7 +111,7 @@
 
 <div class="box resume-btn" id="resume">
             <h2>Resume</h2>
-            <a href="#">Download CV</a>
+            <a href="#Aadhitya.E TNSDC .pdf">Download CV</a>
         </div>
     </div>
 
