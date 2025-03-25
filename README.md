@@ -84,7 +84,7 @@
         </ul>
 
 <div class="resume">
-            <a href="path/to/your/cv.pdf" target="_blank">Download CV</a>
+            <a href="Aadhitya.pdf" target="_blank">Download CV</a>
         </div>
     </div>
 
