@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aadhitya.E - Portfolio</title>
+    <title>Aadhitya.E Digital  Portfolio</title>
+    <body style="background-color: lightblue;>
+    </body>
     <style>
         body {
             font-family: Arial, sans-serif;
